@@ -1,5 +1,3 @@
-// main.cpp
-// main.cpp
 #include <SFML/Graphics.hpp>
 #include <vector>
 #include <queue>
